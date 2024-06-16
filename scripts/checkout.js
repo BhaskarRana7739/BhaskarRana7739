@@ -157,4 +157,3 @@ function renderOrderSummary() {
 }
 
 renderOrderSummary();
-
